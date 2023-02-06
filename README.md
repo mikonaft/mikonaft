@@ -7,6 +7,10 @@
   <a href="https://www.linkedin.com/in/miras-maxutov">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="htpps://t.me/mikonaft">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+  
  </div>
 
 <h1>
