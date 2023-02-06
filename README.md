@@ -23,4 +23,4 @@ Hi, everyone, my name is Miras and I am junior Python developer from Kazakhstan.
       
 When I have free time from study I practice solving Kata in Codewars:
 
-[![codewars](https://www.codewars.com/users/mikonaft/badges/small)](https://www.codewars.com/users/username)   
+[![codewars](https://www.codewars.com/users/mikonaft/badges/small)](https://www.codewars.com/users/mikonaft)   
