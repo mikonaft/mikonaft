@@ -39,3 +39,4 @@ When I have free time from study I practice solving Kata in Codewars:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="sql" width="40" height="40"/>&nbsp;    
 
+
