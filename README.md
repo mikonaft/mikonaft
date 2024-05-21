@@ -18,9 +18,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-Hi, everyone, my name is Miras and I am junior Python developer from Kazakhstan.
-- 👀 I’m interested in Python and backend development
-- 🌱 I’m currently learning Python in ITCbootcamp
+Hi, everyone, my name is Miras and I am junior Data Analyst from Kazakhstan.
+- 👀 I’m interested in Python and SQL
+- 🌱 I’m currently learning at Yandex.Practicum Data Analysis bootcamp
 - 📫 How to reach me >>> feel free to write me via 
 -       email - mikonaft@gmail.com
 -       telegram - @mikonaft
